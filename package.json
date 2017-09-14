@@ -1,0 +1,9 @@
+{
+  "name": "code_katas-js",
+  "version": "0.1.0",
+  "description": "Implementations of code katas in JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:Citizen-T/code_katas-js.git",
+  "author": "Michael Triantafelow <MTriantafelow@gmail.com>",
+  "license": "Apache-2.0"
+}
